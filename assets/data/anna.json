@@ -1,0 +1,11 @@
+{
+ "country1_name":{
+ 		"yyyy-mm-dd":[confirmed_cases,death_cases],
+		"yyyy-mm-dd":[confirmed_cases,death_cases]
+ 	},
+ "country2_name":{
+ 		"yyyy-mm-dd":[confirmed_cases,death_cases],
+		"yyyy-mm-dd":,[confirmed_cases,death_cases]
+ }
+
+}
